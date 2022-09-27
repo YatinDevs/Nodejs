@@ -1,0 +1,3 @@
+Reading Data From the File Demo.txt
+With the Help of fs Module
+By Using ReadFile from fs Module.
