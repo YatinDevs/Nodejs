@@ -1,0 +1,174 @@
+1)download node js from official website
+2) download VSC (IDE -- angular/react/node).
+
+3) open command prompt 
+type node
+
+ctrl + c to come out of REPL Window
+4) node -- version
+
+1) COOP +OS
+2) core java
+3) database
+4) web tech
+(html+css +js+jquery+json +react +node+bootstrap_)(MERN)
+
+MERN = MONGO +express +react+ node
+
+MEAN = Mongo + Express +angular + node 
+
+Full Stack Developer
+
+java Developer
+
+Dotnet Developer
+
+UI Developer
+
+-------------------------------------------------------------
+
+core java (desktop based application)
+          (socket programming)
+          (RMI)
+Advance java (web application)
+(JDBC + servlet + jsp + spring  + spring Boot + hibernate + maven )
+
+dotnet (web application)
+
+project
+
+uber 
+zomato
+urban company
+
+client 
+admin 
+service provider
+
+salon
+wall paint
+
+project
+
+1)title -Tutor application
+2)user
+
+admin
+
+student
+ book
+ cancel
+ password Change
+ logout
+
+teacher(roles)
+
+===============================
+
+project Amazonnew
+
+user ( customer ,admin ,vendor )
+roles
+database
+
+customer
+customerdetails 
+admin
+vendordetails 
+productdetails
+category
+order
+feedback
+ 
+
+PK and FK will be usefull alot
+----------------------------------------------
+kids wear
+------------------------------------------------
+ID name VEndor price Qty description type size age
+---------------------------------------------------
+ID feedback rating photo review
+-----------------------------------------------------
+
+5) terminal --> new terminal
+6) mkdir noe project
+7) cd node project file -->open folder
+8) in terminal --> npm init
+this will create a file package.json
+
+this file keep all the information about project + dependencies requires in project
+
+8) create new file in your projext folder -- > filename.js
+console.log ("welcome to node js")
+
+9) to run on command prompt
+ node filename.js
+
+
+node js - server side js
+module
+
+1.core
+file system module
+file read 
+file write
+file append 
+
+2.local
+3.third party
+
+
+asynchronus
+word -- > application
+         spelling
+          printing
+
+synchronous
+
+node js single threaded approach
+
+multithreading threadpool end task on waiting
+
+nodeJs
+   Module
+     sync
+     async
+
+Blocking Model vs Non-Blocking model
+
+0s -------------------------- 5s --------------------10s
+   <=========file 1======== > <=======file 2 ==========>                  blocking
+
+
+0s -------------------------- 5s --------------------10s
+   <=========file 1======== >                                            Non-Blocking
+   <===================file 2 ==========> 
+
+1. node js server side js
+2. single threaded model
+3. async/ sync
+4. blocking/ non-blocking
+5. framework
+ express [module/MVC/]
+
+pure nodejs
+express -Rapid app developement -libraries pre developed        
+
+==========================================================
+
+java webapp
+1) servlet \ jsp
+
+or 
+
+2)Spring API libraries and provide help 
+
+Module
+1. local module
+2. core module
+3. third party       
+  
+install npm install module name
+npm - node package manager
+command line tool
+it downloads the data  from online repository the data  
