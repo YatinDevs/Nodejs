@@ -1,0 +1,24 @@
+web application node
+
+var http = require('http')
+
+var server = http.createServer((req,res)=>{
+  
+})
+server.listen(3000)
+
+Pure Node | Express
+
+- Middleware .
+- Routing .
+- Template Engine .
+
+// npm i express --save
+
+const express= require('express')
+const app = express()
+
+app.listen(4500);
+
+// localhost:4500/studentdata
+app.get("/studentdata",(req,res)=>{

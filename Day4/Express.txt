@@ -1,0 +1,48 @@
+Express Framework - Provide set of lib | Api | Modules  | Middleware | 
+                    Routing | MVC design pattern - Model View COnstroller
+Java Framework -   Spring 
+                   Struts
+                   JSF
+MERN -----> MONGO EXPRESS REACT AND NODE
+Node Framework  -  Express 
+
+Core features of Express Framework:
+
+Middleware'satish
+Routing Table
+Dynamically Reneder HTML Pages
+
+Single page
+Multipage 
+Hybrid web application
+Mobile based app
+Web based app
+
+Why EXPRESS Js 
+easy and faster
+Light - weight web app
+Framework to help organize Your web application
+into an MVC architecture on the server side
+help in organizing web application
+Rapid application developement  --- purpose of working on Framework
+
+EXpress will provide you structure
+
+skeleton of EXPRESS Framework
+public 
+  images
+  javascript
+  css
+  src
+
+
+Framework has its architecture
+
+express.js is based on node js Middleware Modules called connect which in turn uses http
+
+npm install express --save ----------to install third party module express
+
+Express.jss----------> connect ---------------> http ---------> Node.js
+
+call back
+
